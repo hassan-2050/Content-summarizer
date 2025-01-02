@@ -95,5 +95,5 @@ This project is licensed under the MIT License.
 
 For questions, suggestions, or collaborations, feel free to reach out:
 
-    Email: hassan@example.com
-    GitHub: Hassan's GitHub
+    Email: syedhassan2050@gmail.com
+    
