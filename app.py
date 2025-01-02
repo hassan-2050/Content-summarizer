@@ -21,7 +21,7 @@ st.image(
 
 # Title and subtitle
 st.title("📄 Content Summarizer")
-st.subheader("Summarize Content from YouTube or Any Website")
+st.subheader("Summarize  Content from YouTube or Any Website")
 
 # Add a description with an icon
 st.markdown(
